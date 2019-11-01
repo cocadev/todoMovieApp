@@ -12,7 +12,7 @@
   "dependencies": {
     "axios": "^0.18.0",
     "hoist-non-react-statics": "^3.3.0",
-    "lodash": "^4.17.11",
+    "lodash": "^4.17.15",
     "prop-types": "^15.6.2",
     "react": "16.9.0",
     "react-native": "0.61.3",
