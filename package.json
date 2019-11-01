@@ -22,7 +22,7 @@
     "react-native-linear-gradient": "^2.5.3",
     "react-native-offline": "^4.1.1",
     "react-native-status-bar-height": "^2.2.0",
-    "react-native-vector-icons": "^6.2.0",
+    "react-native-vector-icons": "^6.6.0",
     "react-navigation": "^3.0.8",
     "react-navigation-props-mapper": "^0.3.0",
     "react-redux": "^7.1.1",
