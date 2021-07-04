@@ -1,4 +1,4 @@
-# Movie UI Challenge React-Native Expo App
+# Movie UI Challenge React-Native Expo App2
 
 ![React version](https://img.shields.io/badge/react-16.6-green.svg)
 ![React Native version](https://img.shields.io/badge/react--native-0.57-blue.svg)
